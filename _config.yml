@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "https://annaalessandra_photography.github.io"
+baseurl: "https://annaalessandra.github.io/photography_website"
 #baseurl: "" # Comment the above line and uncomment this to test the website locally
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
